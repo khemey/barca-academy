@@ -4,3 +4,5 @@ console.log("Hello world!") //second time
 function main() {
 return null;
 }
+main()
+// console.log(main)
